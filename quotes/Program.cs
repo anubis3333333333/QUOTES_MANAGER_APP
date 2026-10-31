@@ -13,7 +13,7 @@ class Program{ // основной файл приложения (кейсы и 
             Console.WriteLine("3 Удалить цитату");
             Console.WriteLine("4 Выйти");
             Console.Write("Выберите действие: ");
-            Console.WriteLine();
+            
 
             string choice = Console.ReadLine();
 
