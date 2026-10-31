@@ -1,4 +1,4 @@
-# QUOTEMANAGER APP
+# QUOTESMANAGER APP
 
 
 **Автор:** Чумаченко Михаил
