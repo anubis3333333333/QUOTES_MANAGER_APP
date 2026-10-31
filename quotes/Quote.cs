@@ -9,6 +9,6 @@ public Quote(string text, string author){
 
 //переопределение метода для удобного вывода цитаты в консоль
 public override string ToString(){
-    return $"\"{Text}\" — {Author}";
+    return $"\"{Text}\" - {Author}";
 }
 }
